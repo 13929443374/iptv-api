@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2026-07-02 07:01:10,https://xykt-fix.github.io/Y77.m3u8
+2026-08-01 19:20:35,https://www.9kds.com/d/1905.php?t=1&id=LIVE8J4LTCXPI7QJ5_261&kl=www.9kds.com
 
 📺央视频道,#genre#
+CCTV-6,https://www.9kds.com/d/1905.php?t=1&id=LIVE8J4LTCXPI7QJ5_261&kl=www.9kds.com
 CCTV-9,https://xykt-fix.github.io/Y77.m3u8
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
@@ -11,10 +12,5 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 东方卫视,https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8
 
 📡港澳台,#genre#
-TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 明珠台,http://r.jdshipin.com/ZQ4kN
-明珠台,https://o11.163189.xyz/stream/tvb/mzt/
 凤凰香港,http://r.jdshipin.com/yDoTN
-凤凰香港,http://cdn6.163189.xyz/163189/fhhk
-凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8
-凤凰香港,https://cdn9.163189.xyz/smt3.1.1.php?id=hkphoenix_twn
